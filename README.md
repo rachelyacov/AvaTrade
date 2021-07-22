@@ -1,2 +1,1 @@
-# AvaTrade
-# AvaTradeLogin
+# LoginAvaTrade
