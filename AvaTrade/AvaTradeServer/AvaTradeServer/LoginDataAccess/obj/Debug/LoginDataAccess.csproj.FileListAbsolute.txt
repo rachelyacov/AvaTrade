@@ -1,0 +1,12 @@
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\LoginDataAccess.dll.config
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\LoginDataAccess.dll
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\LoginDataAccess.pdb
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\EntityFramework.dll
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\EntityFramework.xml
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\obj\Debug\LoginDataAccess.csproj.CoreCompileInputs.cache
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\obj\Debug\LoginDataAccess.csproj.CopyComplete
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\obj\Debug\LoginDataAccess.dll
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\obj\Debug\LoginDataAccess.pdb
+C:\MeTest2\AvaTrade\AvaTradeServer\AvaTradeServer\LoginDataAccess\obj\Debug\LoginDataAccess.csprojAssemblyReference.cache
